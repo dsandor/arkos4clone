@@ -220,6 +220,14 @@ var Consoles = []ConsoleConfig{
 		ExtraSources: []string{"logo/480P/"},
 	},
 	{
+		RealName: "clone type1 sauce3 spk",
+		BrandEntries: []BrandEntry{
+			{Brand: "Clone R36s", DisplayName: "Clone Type 1 Soy Sauce Panel 3 With Speaker Control"},
+		},
+		ExtraSources: []string{"logo/480P/"},
+		Keywords:     []string{"v20", "rf3536k3ka"},
+	},
+	{
 		RealName: "clone type1 panel4",
 		BrandEntries: []BrandEntry{
 			{Brand: "Clone R36s", DisplayName: "Clone Type 1 Panel 4"},
